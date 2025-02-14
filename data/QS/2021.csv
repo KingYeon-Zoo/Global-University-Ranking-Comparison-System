@@ -1,0 +1,1001 @@
+   #    World Rank                   ,  Institution                   ,  Country                   ,   
+    1  ,   Massachusetts Institute of Technology - MIT   , USA    
+    2  ,   Stanford University   , USA    
+    3  ,   Harvard University   , USA    
+    4  ,   California Institute of Technology - Caltech   , USA    
+    5  ,   University of Oxford   , UK    
+    6  ,   Swiss Federal Institute of Technology Zurich - ETHZ   , Switzerland    
+    7  ,   University of Cambridge   , UK    
+    8  ,   Imperial College London   , UK    
+    9  ,   University of Chicago   , USA    
+    10  ,   University College London   , UK    
+    11  ,   National University of Singapore   , Singapore    
+    12  ,   Princeton University   , USA    
+    13  ,   Nanyang Technological University   , Singapore    
+    14  ,   Swiss Federal Institute of Technology Lausanne - EPFL   , Switzerland    
+    15  ,   Tsinghua University   , China    
+    16  ,   University of Pennsylvania   , USA    
+    17  ,   Yale University   , USA    
+    18  ,   Cornell University   , USA    
+    19  ,   Columbia University   , USA    
+    20  ,   University of Edinburgh   , UK    
+    21  ,   University of Michigan - Ann Arbor   , USA    
+    22  ,   University of Hong Kong   , Hong Kong    
+    23  ,   Peking University   , China    
+    24  ,   The University of Tokyo   , Japan    
+    25  ,   University of Toronto   , Canada    
+    25  ,   Johns Hopkins University   , USA    
+    27  ,   Hong Kong University of Science and Technology   , Hong Kong    
+    27  ,   University of Manchester   , UK    
+    29  ,   Northwestern University   , USA    
+    30  ,   University of California - Berkeley   , USA    
+    31  ,   Australian National University   , Australia    
+    31  ,   McGill University   , Canada    
+    31  ,   King's College London   , UK    
+    34  ,   Fudan University   , China    
+    35  ,   New York University   , USA    
+    36  ,   University of California - Los Angeles   , USA    
+    37  ,   Seoul National University   , South Korea    
+    38  ,   Kyoto University   , Japan    
+    39  ,   Korea Advanced Institute of Science and Technology   , South Korea    
+    40  ,   University of Sydney   , Australia    
+    41  ,   University of Melbourne   , Australia    
+    42  ,   Duke University   , USA    
+    43  ,   Chinese University of Hong Kong   , Hong Kong    
+    44  ,   University of New South Wales   , Australia    
+    45  ,   University of British Columbia   , Canada    
+    46  ,   University of Queensland   , Australia    
+    47  ,   Shanghai Jiao Tong University   , China    
+    48  ,   City University of Hong Kong   , Hong Kong    
+    49  ,   London School of Economics   , UK    
+    50  ,   Technical University of M�nchen   , Germany    
+    51  ,   Carnegie Mellon University   , USA    
+    52  ,   PSL Research University Paris   , France    
+    53  ,   Zhejiang University   , China    
+    54  ,   University of California - San Diego   , USA    
+    55  ,   Monash University   , Australia    
+    56  ,   Tokyo Institute of Technology   , Japan    
+    57  ,   Delft University of Technology   , Netherlands    
+    58  ,   University of Bristol   , UK    
+    59  ,   University of Malaya   , Malaysia    
+    60  ,   Brown University   , USA    
+    61  ,   Ecole Polytechnique   , France    
+    61  ,   University of Amsterdam   , Netherlands    
+    62  ,   University of Warwick   , UK    
+    63  ,   University of M�nchen   , Germany    
+    64  ,   University of Heidelberg   , Germany    
+    65  ,   University of Wisconsin-Madison   , USA    
+    66  ,   University of Buenos Aires   , Argentina    
+    66  ,   National Taiwan University   , Taiwan    
+    69  ,   Korea University   , South Korea    
+    69  ,   University of Zurich   , Switzerland    
+    71  ,   University of Texas at Austin   , USA    
+    72  ,   Osaka University   , Japan    
+    72  ,   University of Washington   , USA    
+    74  ,   Moscow State University   , Russia    
+    75  ,   Hong Kong Polytechnic University   , Hong Kong    
+    76  ,   University of Copenhagen   , Denmark    
+    77  ,   Pohang University of Science and Technology   , South Korea    
+    77  ,   University of Glasgow   , UK    
+    79  ,   Tohoku University   , Japan    
+    80  ,   Georgia Institute of Technology   , USA    
+    81  ,   University of Auckland   , New Zealand    
+    82  ,   University of Illinois at Urbana-Champaign   , USA    
+    83  ,   Sorbonne University   , France    
+    84  ,   Catholic University of Leuven   , Belgium    
+    85  ,   Yonsei University   , South Korea    
+    86  ,   University of Durham   , UK    
+    87  ,   University of Birmingham   , UK    
+    88  ,   Sungkyunkwan University   , South Korea    
+    89  ,   Rice University   , USA    
+    90  ,   University of Southampton   , UK    
+    91  ,   University of Leeds   , UK    
+    92  ,   University of Western Australia   , Australia    
+    93  ,   University of Science and Technology of China   , China    
+    93  ,   University of Sheffield   , UK    
+    95  ,   University of North Carolina at Chapel Hill   , USA    
+    96  ,   University of St. Andrews   , UK    
+    97  ,   Lund University   , Sweden    
+    98  ,   KTH - Royal Institute of Technology   , Sweden    
+    99  ,   University of Nottingham   , UK    
+    100  ,   National Autonomous University of Mexico   , Mexico    
+    101  ,   Trinity College Dublin   , Ireland    
+    101  ,   Pennsylvania State University   , USA    
+    103  ,   Technical University of Denmark   , Denmark    
+    104  ,   University of Helsinki   , Finland    
+    105  ,   Washington University in St. Louis   , USA    
+    106  ,   University of Adelaide   , Australia    
+    106  ,   University of Geneva   , Switzerland    
+    108  ,   Ohio State University   , USA    
+    109  ,   Purdue University   , USA    
+    110  ,   Nagoya University   , Japan    
+    110  ,   Boston University   , USA    
+    112  ,   University of California - Davis   , USA    
+    113  ,   University of Oslo   , Norway    
+    114  ,   University of Bern   , Switzerland    
+    114  ,   Queen Mary - University of London   , UK    
+    115  ,   University of Sao Paulo   , Brazil    
+    115  ,   Wageningen University & Research Center   , Netherlands    
+    117  ,   Humboldt University of Berlin   , Germany    
+    118  ,   University of Montreal   , Canada    
+    119  ,   University of Alberta   , Canada    
+    120  ,   Eindhoven University of Technology   , Netherlands    
+    121  ,   Pontifical Catholic University of Chile   , Chile    
+    121  ,   Utrecht University   , Netherlands    
+    121  ,   University of Southern California   , USA    
+    124  ,   Nanjing University   , China    
+    124  ,   Kyushu University   , Japan    
+    124  ,   Uppsala University   , Sweden    
+    127  ,   Aalto University   , Finland    
+    128  ,   University of Groningen   , Netherlands    
+    128  ,   University of Leiden   , Netherlands    
+    130  ,   Free University of Berlin   , Germany    
+    131  ,   Karlsruhe Institute of Technology   , Germany    
+    132  ,   University of Putra Malaysia   , Malaysia    
+    133  ,   University of Technology Sydney   , Australia    
+    135  ,   University of Gent   , Belgium    
+    135  ,   Lancaster University   , UK    
+    137  ,   Polytechnic University of Milan   , Italy    
+    138  ,   CentraleSup�lec   , France    
+    139  ,   Hokkaido University   , Japan    
+    139  ,   Chalmers University of Technology   , Sweden    
+    141  ,   National University of Malaysia   , Malaysia    
+    142  ,   University of Science - Malaysia   , Malaysia    
+    143  ,   King Abdulaziz University   , Saudi Arabia    
+    144  ,   McMaster University   , Canada    
+    145  ,   RWTH Aachen University   , Germany    
+    146  ,   Hanyang University   , South Korea    
+    147  ,   Aarhus University   , Denmark    
+    148  ,   Technical University of Berlin   , Germany    
+    149  ,   University of Basel   , Switzerland    
+    150  ,   University of Vienna   , Austria    
+    150  ,   University of York   , UK    
+    152  ,   Newcastle University - Newcastle-upon-Tyne   , UK    
+    152  ,   University of California - Santa Barbara   , USA    
+    152  ,   University of Maryland at College Park   , USA    
+    155  ,   Monterrey Institute of Technology and Higher Education    , Mexico    
+    156  ,   University of Pittsburgh   , USA    
+    157  ,   Michigan State University   , USA    
+    158  ,   Emory University   , USA    
+    159  ,   Cardiff University   , UK    
+    160  ,   University of Bologna   , Italy    
+    161  ,   Ecole Normale Sup�rieure de Lyon   , France    
+    162  ,   University of Florida   , USA    
+    162  ,   Case Western Reserve University   , USA    
+    164  ,   University of Exeter   , UK    
+    165  ,   Al-Farabi Kazakh National University   , Kazakhstan    
+    166  ,   University of Waterloo   , Canada    
+    166  ,   University of Rochester   , USA    
+    168  ,   National Tsinghua University   , Taiwan    
+    169  ,   University of Lausanne   , Switzerland    
+    169  ,   Texas A&M University   , USA    
+    171  ,   University of Rome - La Sapienza   , Italy    
+    172  ,   Indian Institute of Technology - Bombay   , India    
+    173  ,   Technical University of Dresden   , Germany    
+    173  ,   University of Bath   , UK    
+    175  ,   University of Freiburg   , Germany    
+    175  ,   University of T�bingen   , Germany    
+    177  ,   University College Dublin   , Ireland    
+    177  ,   Hebrew University of Jerusalem   , Israel    
+    177  ,   University of Minnesota - Twin Cities   , USA    
+    180  ,   University of Chile   , Chile    
+    181  ,   Stockholm University   , Sweden    
+    181  ,   University of Liverpool   , UK    
+    183  ,   University of Barcelona   , Spain    
+    184  ,   University of Otago   , New Zealand    
+    185  ,   Indian Institute of Science   , India    
+    186  ,   King Fahd University of Petroleum & Minerals   , Saudi Arabia    
+    187  ,   University of Technology - Malaysia   , Malaysia    
+    187  ,   Vanderbilt University   , USA    
+    189  ,   Catholic University of Louvain   , Belgium    
+    189  ,   Waseda University   , Japan    
+    191  ,   Vienna University of Technology   , Austria    
+    191  ,   Keio University   , Japan    
+    193  ,   Indian Institute of Technology - Delhi   , India    
+    194  ,   University of Bergen   , Norway    
+    195  ,   University of G�ttingen   , Germany    
+    196  ,   University of Wollongong   , Australia    
+    197  ,   University of Newcastle - Australia   , Australia    
+    197  ,   Erasmus University Rotterdam   , Netherlands    
+    197  ,   University of Twente   , Netherlands    
+    200  ,   Vrije Universiteit Brussel   , Belgium    
+    200  ,   Autonomous University of Madrid   , Spain    
+    202  ,   G�teborg University   , Sweden    
+    203  ,   Western University   , Canada    
+    203  ,   Dartmouth College   , USA    
+    205  ,   University of Reading   , UK    
+    206  ,   Complutense University of Madrid   , Spain    
+    207  ,   University of Aberdeen   , UK    
+    208  ,   Chulalongkorn University   , Thailand    
+    209  ,   Queen's University Belfast   , UK    
+    210  ,   University of California - Irvine   , USA    
+    211  ,   University of Notre Dame   , USA    
+    211  ,   Khalifa University   , United Arab Emirates    
+    213  ,   Autonomous University of Barcelona   , Spain    
+    214  ,   Macquarie University   , Australia    
+    214  ,   Radboud University of Nijmegen   , Netherlands    
+    216  ,   University of Padua   , Italy    
+    217  ,   Curtin University   , Australia    
+    217  ,   Queensland University of Technology   , Australia    
+    217  ,   University of Virginia   , USA    
+    220  ,   American University of Beirut   , Lebanon    
+    220  ,   University of Cape Town   , South Africa    
+    220  ,   Arizona State University   , USA    
+    223  ,   RMIT University   , Australia    
+    223  ,   Victoria University of Wellington   , New Zealand    
+    225  ,   St. Petersburg State University   , Russia    
+    226  ,   Loughborough University   , UK    
+    227  ,   University of Los Andes   , Colombia    
+    228  ,   University of Hamburg   , Germany    
+    228  ,   Novosibirsk State University   , Russia    
+    230  ,   Tel Aviv University   , Israel    
+    230  ,   University of Colorado at Boulder   , USA    
+    230  ,   Georgetown University   , USA    
+    233  ,   State University of Campinas   , Brazil    
+    234  ,   University of Maastricht   , Netherlands    
+    234  ,   National Cheng Kung University   , Taiwan    
+    236  ,   Kyung Hee University   , South Korea    
+    236  ,   VU University Amsterdam   , Netherlands    
+    238  ,   University of Antwerp   , Belgium    
+    238  ,   National University of Ireland - Galway   , Ireland    
+    240  ,   University of Bonn   , Germany    
+    240  ,   National Chiao Tung University   , Taiwan    
+    242  ,   Sciences Po - Paris   , France    
+    242  ,   University of Leicester   , UK    
+    242  ,   Ecole des Ponts ParisTech   , France    
+    245  ,   University of Qatar   , Qatar    
+    246  ,   Queen's University   , Canada    
+    246  ,   University of Calgary   , Canada    
+    246  ,   Wuhan University   , China    
+    246  ,   University of Sussex   , UK    
+    250  ,   Universit� Libre de Bruxelles   , Belgium    
+    250  ,   Tomsk State University   , Russia    
+    252  ,   University of Navarra   , Spain    
+    252  ,   Mahidol University   , Thailand    
+    254  ,   University of Brunei Darussalam   , Brunei    
+    254  ,   Gadjah Mada University   , Indonesia    
+    256  ,   Tongji University   , China    
+    256  ,   University of Illinois at Chicago   , USA    
+    258  ,   Rutgers - The State University of New Jersey   , USA    
+    259  ,   National University of Colombia   , Colombia    
+    260  ,   Harbin Institute of Technology   , China    
+    260  ,   Charles University Prague   , Czech Republic    
+    260  ,   Tufts University   , USA    
+    263  ,   Sun Yat-Sen University   , China    
+    264  ,   Hong Kong Baptist University   , Hong Kong    
+    265  ,   University of Innsbruck   , Austria    
+    265  ,   Tsukuba University   , Japan    
+    267  ,   Technical University of Darmstadt   , Germany    
+    267  ,   National Taiwan University of Science and Technology   , Taiwan    
+    267  ,   University of Surrey   , UK    
+    270  ,   University of Canterbury   , New Zealand    
+    270  ,   University of Massachusetts - Amherst   , USA    
+    272  ,   Massey University   , New Zealand    
+    273  ,   University of Lugano   , Switzerland    
+    273  ,   University of Arizona   , USA    
+    275  ,   Graz University of Technology   , Austria    
+    275  ,   Deakin University   , Australia    
+    275  ,   Indian Institute of Technology - Madras   , India    
+    275  ,   Paris Cit� University   , France    
+    279  ,   University of Ottawa   , Canada    
+    279  ,   Beijing Normal University   , China    
+    281  ,   Moscow Institute of Physics and Technology   , Russia    
+    282  ,   University of Cologne   , Germany    
+    282  ,   Bauman Moscow State Technical University   , Russia    
+    284  ,   United Arab Emirates University   , United Arab Emirates    
+    285  ,   University of Tartu   , Estonia    
+    286  ,   University College Cork   , Ireland    
+    287  ,   University Pompeu Fabra   , Spain    
+    287  ,   University of Turku   , Finland    
+    287  ,   University Panth�on-Sorbonne (Paris I)   , France    
+    287  ,   King Saud University   , Saudi Arabia    
+    291  ,   Dalhousie University   , Canada    
+    291  ,   Ecole Normale Sup�rieure de Paris   , France    
+    291  ,   Technion - Israel Institute of Technology   , Israel    
+    291  ,   University of Miami   , USA    
+    295  ,   University of South Australia   , Australia    
+    295  ,   North Carolina State University   , USA    
+    295  ,   Gwangju Institute of Science and Technology   , South Korea    
+    298  ,   Higher School of Economics   , Russia    
+    298  ,   National Yang-Ming University   , Taiwan    
+    300  ,   University of Strathclyde   , UK    
+    301  ,   University of Milan   , Italy    
+    301  ,   Heriot-Watt University   , UK    
+    303  ,   Griffith University   , Australia    
+    303  ,   Xi'an Jiaotong University   , China    
+    305  ,   Aalborg University   , Denmark    
+    305  ,   Universit� Paris-Saclay   , France    
+    305  ,   University of Indonesia   , Indonesia    
+    307  ,   University of Mannheim   , Germany    
+    308  ,   University of Tasmania   , Australia    
+    308  ,   Polytechnic University of Turin   , Italy    
+    308  ,   Royal Holloway - University of London   , UK    
+    311  ,   University of Frankfurt am Main   , Germany    
+    311  ,   University Carlos III de Madrid   , Spain    
+    313  ,   Institute of Technology Bandung   , Indonesia    
+    314  ,   Polytechnic University of Catalonia   , Spain    
+    314  ,   Indian Institute of Technology - Kharagpur   , India    
+    314  ,   National Research Nuclear University   , Russia    
+    317  ,   Belarusian State University   , Belarus    
+    317  ,   University of Erlangen-N�rnberg   , Germany    
+    319  ,   University of Dundee   , UK    
+    320  ,   Indiana University at Bloomington   , USA    
+    321  ,   Hiroshima University   , Japan    
+    321  ,   University of Warsaw   , Poland    
+    323  ,   Simon Fraser University   , Canada    
+    323  ,   University of Jena   , Germany    
+    323  ,   Southern University of Science and Technology   , China    
+    326  ,   Polytechnic University of Valencia   , Spain    
+    326  ,   Jagiellonian University   , Poland    
+    326  ,   Peoples' Friendship University of Russia   , Russia    
+    326  ,   Virginia Polytechnic Institute and State University   , USA    
+    326  ,   Pontifical Catholic University Argentina   , Argentina    
+    327  ,   IE University   , Spain    
+    331  ,   National Taiwan Normal University   , Taiwan    
+    331  ,   Ural Federal University   , Russia    
+    333  ,   University of Stuttgart   , Germany    
+    333  ,   Ewha Womans University   , South Korea    
+    333  ,   Umea University   , Sweden    
+    333  ,   University of East Anglia   , UK    
+    333  ,   University of Hawaii at Manoa   , USA    
+    333  ,   University of Utah   , USA    
+    333  ,   University of Jyvaskyla   , Finland    
+    341  ,   Yeshiva University   , USA    
+    342  ,   University of Chemistry and Technology - Prague   , Czech Republic    
+    342  ,   Grenoble Alpes University   , France    
+    344  ,   University of Ulm   , Germany    
+    344  ,   Birkbeck - University of London   , UK    
+    346  ,   School of Oriental and African Studies - University of London   , UK    
+    346  ,   State University of New York at Buffalo   , USA    
+    348  ,   American University of Sharjah   , United Arab Emirates    
+    348  ,   Moscow State Institute of International Relations   , Russia    
+    350  ,   Indian Institute of Technology - Kanpur   , India    
+    350  ,   City University London   , UK    
+    350  ,   University of Technology Brunei   , Brunei    
+    353  ,   University of Southern Denmark   , Denmark    
+    353  ,   George Washington University   , USA    
+    355  ,   National University of Sciences and Technology - Islamabad   , Pakistan    
+    356  ,   University of M�nster   , Germany    
+    357  ,   University of Lisbon   , Portugal    
+    357  ,   University of Porto   , Portugal    
+    357  ,   L.N. Gumilyov Eurasian National University   , Kazakhstan    
+    360  ,   Norwegian University of Science and Technology   , Norway    
+    360  ,   ITMO University   , Russia    
+    362  ,   University of Linz   , Austria    
+    362  ,   Tokyo Medical and Dental University   , Japan    
+    362  ,   Linkoping University   , Sweden    
+    362  ,   Northeastern University   , USA    
+    367  ,   University of Macau   , Macao    
+    368  ,   Tilburg University   , Netherlands    
+    368  ,   Brunel University   , UK    
+    370  ,   University of Victoria   , Canada    
+    370  ,   Kazan Federal University    , Russia    
+    372  ,   Swinburne University of Technology   , Australia    
+    373  ,   State University of New York at Stony Brook   , USA    
+    373  ,   Pakistan Institute of Engineering and Applied Sciences   , Pakistan    
+    375  ,   University of Waikato   , New Zealand    
+    375  ,   Sultan Qaboos University   , Oman    
+    377  ,   Universidad de Palermo   , Argentina    
+    377  ,   Nankai University   , China    
+    379  ,   Taylor's University   , Malaysia    
+    380  ,   Federal University of Rio de Janeiro   , Brazil    
+    380  ,   University of Kent at Canterbury   , UK    
+    380  ,   Wake Forest University   , USA    
+    383  ,   Indian Institute of Technology - Roorkee   , India    
+    383  ,   University of Pisa   , Italy    
+    383  ,   Oxford Brookes University   , UK    
+    383  ,   University of Kansas   , USA    
+    387  ,   Shanghai University   , China    
+    387  ,   Tianjin University   , China    
+    387  ,   Lincoln University   , New Zealand    
+    387  ,   Taipei Medical University   , Taiwan    
+    391  ,   UCSI University   , Malaysia    
+    392  ,   Beijing Institute of Technology   , China    
+    392  ,   University of Naples Federico II   , Italy    
+    392  ,   Hankuk University of Foreign Studies   , South Korea    
+    392  ,   Vita-Salute San Raffaele University   , Italy    
+    396  ,   Huazhong University of Science and Technology   , China    
+    396  ,   University of the Philippines Manila   , Philippines    
+    398  ,   La Trobe University   , Australia    
+    398  ,   University of Colorado at Denver   , USA    
+    398  ,   University of Strasbourg   , France    
+    401  ,   Tomsk Polytechnic University   , Russia    
+    401  ,   Peter the Great St Petersburg Polytechnic University   , Russia    
+    403  ,   University of Mainz   , Germany    
+    403  ,   University of Trento   , Italy    
+    403  ,   Kobe University   , Japan    
+    403  ,   Chung-Ang University   , South Korea    
+    403  ,   University of Witwatersrand   , South Africa    
+    408  ,   University of Oulu   , Finland    
+    409  ,   University of Tampere   , Finland    
+    409  ,   Sharif University of Technology   , Iran    
+    411  ,   American University in Cairo   , Egypt    
+    411  ,   University of Essex   , UK    
+    411  ,   Washington State University   , USA    
+    414  ,   Bond University   , Australia    
+    414  ,   Tulane University   , USA    
+    416  ,   National Sun Yat-Sen University   , Taiwan    
+    416  ,   Goldsmiths College - University of London   , UK    
+    416  ,   University of California - Santa Cruz   , USA    
+    416  ,   Uit the Arctic University of Norway   , Norway    
+    420  ,   Federal University of Sao Paulo   , Brazil    
+    420  ,   Laval University   , Canada    
+    420  ,   University of Iowa   , USA    
+    423  ,   Flinders University   , Australia    
+    423  ,   Vilnius University   , Lithuania    
+    425  ,   University of Bordeaux   , France    
+    426  ,   Pontificia Universidad Javeriana   , Colombia    
+    426  ,   Illinois Institute of Technology   , USA    
+    428  ,   University of St.Gallen   , Switzerland    
+    428  ,   New University of Lisbon   , Portugal    
+    428  ,   National University of Science and Technology MISiS   , Russia    
+    431  ,   University of Coimbra   , Portugal    
+    432  ,   Xiamen University   , China    
+    432  ,   Czech Technical University of Prague   , Czech Republic    
+    432  ,   University of Florence   , Italy    
+    432  ,   Pontifical Catholic University of Per�   , Peru    
+    432  ,   University of Tennessee - Knoxville   , USA    
+    437  ,   University of W�rzburg   , Germany    
+    437  ,   Auckland University of Technology   , New Zealand    
+    439  ,   University of Bochum   , Germany    
+    439  ,   Dublin City University   , Ireland    
+    439  ,   University of Technology - Petronas   , Malaysia    
+    439  ,   University of Johannesburg   , South Africa    
+    443  ,   Austral University   , Argentina    
+    443  ,   University of Konstanz   , Germany    
+    443  ,   Colorado State University   , USA    
+    446  ,   University of Science and Technology Beijing   , China    
+    446  ,   Ben-Gurion University of the Negev   , Israel    
+    446  ,   Brandeis University   , USA    
+    449  ,   Beihang University   , China    
+    449  ,   University of California - Riverside   , USA    
+    451  ,   University of Li�ge   , Belgium    
+    451  ,   Saarland University   , Germany    
+    451  ,   Technical University of Madrid   , Spain    
+    454  ,   Quaid-i-Azam University   , Pakistan    
+    454  ,   Boston College   , USA    
+    456  ,   University of Canberra   , Australia    
+    456  ,   Hasselt University   , Belgium    
+    456  ,   Catholic University of Korea   , South Korea    
+    456  ,   Dongguk University   , South Korea    
+    456  ,   University of Stellenbosch   , South Africa    
+    456  ,   Florida State University   , USA    
+    462  ,   James Cook University   , Australia    
+    462  ,   South China University of Technology   , China    
+    462  ,   University ORT Uruguay   , Uruguay    
+    465  ,   University of Belgrano   , Argentina    
+    465  ,   University of Saskatchewan   , Canada    
+    465  ,   Yokohama City University   , Japan    
+    465  ,   Koc University   , Turkey    
+    465  ,   National Central University   , Taiwan    
+    470  ,   University of Halle-Wittenberg   , Germany    
+    470  ,   Lappeenranta University of Technology   , Finland    
+    470  ,   Indian Institute of Technology - Guwahati   , India    
+    470  ,   Rensselaer Polytechnic Institute   , USA    
+    474  ,   University of Western Sydney   , Australia    
+    474  ,   Umm Al-Qura University   , Saudi Arabia    
+    474  ,   Swansea University   , UK    
+    477  ,   Concordia University   , Canada    
+    477  ,   University of Cyprus   , Cyprus    
+    477  ,   National Technical University of Athens   , Greece    
+    477  ,   Wayne State University   , USA    
+    477  ,   Amirkabir University of Technology   , Iran    
+    477  ,   V.N. Karazin Kharkiv National University   , Ukraine    
+    483  ,   University of Leipzig   , Germany    
+    483  ,   University of Missouri - Columbia   , USA    
+    485  ,   Shandong University   , China    
+    485  ,   University of Stirling   , UK    
+    485  ,   Aberystwyth University   , UK    
+    488  ,   Chiba University   , Japan    
+    488  ,   National Taipei University of Technology   , Taiwan    
+    490  ,   Sogang University   , South Korea    
+    490  ,   Auezov South Kazakhstan State University   , Kazakhstan    
+    492  ,   University of Montevideo   , Uruguay    
+    493  ,   Sao Paulo State University   , Brazil    
+    493  ,   Jilin University   , China    
+    493  ,   Southeast University   , China    
+    493  ,   Far Eastern Federal University   , Russia    
+    493  ,   Chang Gung University   , Taiwan    
+    498  ,   University of Havana   , Cuba    
+    499  ,   University of Alcal� de Henares   , Spain    
+    499  ,   Oregon State University   , USA    
+    499  ,   University of Eastern Finland   , Finland    
+    501-510  ,   University of Santiago de Chile   , Chile    
+    501-510  ,   East China Normal University   , China    
+    501-510  ,   University of Kiel   , Germany    
+    501-510  ,   University of Granada   , Spain    
+    501-510  ,   University of Zaragoza   , Spain    
+    501-510  ,   University of Szeged   , Hungary    
+    501-510  ,   University of Delhi   , India    
+    501-510  ,   Hitotsubashi University   , Japan    
+    501-510  ,   Balamand University   , Lebanon    
+    501-510  ,   University of Connecticut   , USA    
+    501-510  ,   University of Georgia   , USA    
+    511-520  ,   University of Klagenfurt   , Austria    
+    511-520  ,   University of Limerick   , Ireland    
+    511-520  ,   Catholic University of the Sacred Heart   , Italy    
+    511-520  ,   University of Rome - Tor Vergata   , Italy    
+    511-520  ,   Warsaw University of Technology   , Poland    
+    511-520  ,   Singapore Management University   , Singapore    
+    511-520  ,   Aston University   , UK    
+    511-520  ,   Aix-Marseille University   , France    
+    511-520  ,   University of Montpellier   , France    
+    521-530  ,   University of Bayreuth   , Germany    
+    521-530  ,   University of Debrecen    , Hungary    
+    521-530  ,   Airlangga University   , Indonesia    
+    521-530  ,   University of Milan - Bicocca   , Italy    
+    521-530  ,   University of Turin   , Italy    
+    521-530  ,   Ulsan University   , South Korea    
+    521-530  ,   Saratov State University   , Russia    
+    521-530  ,   Sabanci University   , Turkey    
+    521-530  ,   Imam Abdulrahman Bin Faisal University   , Saudi Arabia    
+    531-540  ,   York University   , Canada    
+    531-540  ,   Sichuan University   , China    
+    531-540  ,   Masaryk University   , Czech Republic    
+    531-540  ,   University of Giessen   , Germany    
+    531-540  ,   Bogor Agricultural University (IPB University)   , Indonesia    
+    531-540  ,   Nagasaki University   , Japan    
+    531-540  ,   Inha University   , South Korea    
+    531-540  ,   University of Utara Malaysia   , Malaysia    
+    531-540  ,   Imam Muhammad Ibn Saud Islamic University   , Saudi Arabia    
+    531-540  ,   University of Texas at Dallas   , USA    
+    531-540  ,   Northwestern Polytechnical University   , China    
+    541-550  ,   University of Bremen   , Germany    
+    541-550  ,   Institut National des Sciences Appliqu�es de Lyon   , France    
+    541-550  ,   University Panth�on-Assas (Paris II)   , France    
+    541-550  ,   Niigata University   , Japan    
+    541-550  ,   Osaka City University   , Japan    
+    541-550  ,   Coventry University   , UK    
+    541-550  ,   University of Delaware   , USA    
+    541-550  ,   Iowa State University   , USA    
+    541-550  ,   Satbayev Kazakh National Technical University   , Kazakhstan    
+    541-550  ,   Saint Joseph University of Beirut   , Lebanon    
+    551-560  ,   Victoria University - Melbourne   , Australia    
+    551-560  ,   Technical University of Braunschweig   , Germany    
+    551-560  ,   University Paul Sabatier - Toulouse III   , France    
+    551-560  ,   Bar-Ilan University   , Israel    
+    551-560  ,   Ajou University   , South Korea    
+    551-560  ,   Hallym University   , South Korea    
+    551-560  ,   Konkuk University   , South Korea    
+    551-560  ,   Lebanese American University   , Lebanon    
+    551-560  ,   Bilkent University   , Turkey    
+    551-560  ,   Lehigh University   , USA    
+    551-560  ,   Management and Science University   , Malaysia    
+    561-570  ,   University Externado de Colombia   , Colombia    
+    561-570  ,   Cairo University   , Egypt    
+    561-570  ,   Kumamoto University   , Japan    
+    561-570  ,   Kyungpook National University   , South Korea    
+    561-570  ,   Thammasat University   , Thailand    
+    561-570  ,   University of Pretoria   , South Africa    
+    561-570  ,   University of Nebraska - Lincoln   , USA    
+    561-570  ,   The New School   , USA    
+    571-580  ,   Murdoch University   , Australia    
+    571-580  ,   University of Guelph   , Canada    
+    571-580  ,   China University of Geosciences Wuhan   , China    
+    571-580  ,   University of Costa Rica   , Costa Rica    
+    571-580  ,   Abo Akademi University   , Finland    
+    571-580  ,   Aristotle University of Thessaloniki   , Greece    
+    571-580  ,   Lingnan University   , Hong Kong    
+    571-580  ,   Okayama University   , Japan    
+    571-580  ,   Panamerican University   , Mexico    
+    571-580  ,   Altai State University   , Russia    
+    571-580  ,   University of South Carolina   , USA    
+    581-590  ,   University of Graz   , Austria    
+    581-590  ,   Renmin University of China   , China    
+    581-590  ,   University of Seville   , Spain    
+    581-590  ,   Pusan National University   , South Korea    
+    581-590  ,   University of Aveiro   , Portugal    
+    581-590  ,   National Chengchi University   , Taiwan    
+    581-590  ,   Kingston University   , UK    
+    581-590  ,   University of South Florida   , USA    
+    581-590  ,   Clark University   , USA    
+    591-600  ,   Central Queensland University   , Australia    
+    591-600  ,   Dalian University of Technology   , China    
+    591-600  ,   Palacky University   , Czech Republic    
+    591-600  ,   University of Valencia   , Spain    
+    591-600  ,   University of Tehran   , Iran    
+    591-600  ,   Kanazawa University   , Japan    
+    591-600  ,   Chonbuk National University   , South Korea    
+    591-600  ,   University of Minho   , Portugal    
+    591-600  ,   Southern Federal University   , Russia    
+    591-600  ,   Samara University   , Russia    
+    591-600  ,   Kazakh National Agrarian University   , Kazakhstan    
+    601-650  ,   Buenos Aires Institute of Technology   , Argentina    
+    601-650  ,   American University in Dubai   , United Arab Emirates    
+    601-650  ,   University of Sharjah   , United Arab Emirates    
+    601-650  ,   Sofia University   , Bulgaria    
+    601-650  ,   Carleton University   , Canada    
+    601-650  ,   University of Manitoba   , Canada    
+    601-650  ,   University of Quebec   , Canada    
+    601-650  ,   University of Fribourg   , Switzerland    
+    601-650  ,   University of Concepci�n   , Chile    
+    601-650  ,   East China University of Science and Technology   , China    
+    601-650  ,   Hunan University   , China    
+    601-650  ,   Jinan University - Guangdong   , China    
+    601-650  ,   Shenzhen University   , China    
+    601-650  ,   University of Regensburg   , Germany    
+    601-650  ,   University of Salamanca   , Spain    
+    601-650  ,   Ramon Llull University   , Spain    
+    601-650  ,   Tbilisi State University   , Georgia    
+    601-650  ,   E�tv�s Lorand University   , Hungary    
+    601-650  ,   Iran University of Science and Technology Tehran   , Iran    
+    601-650  ,   Free University of Bozen-Bolzano   , Italy    
+    601-650  ,   University of Pavia   , Italy    
+    601-650  ,   Jordan University   , Jordan    
+    601-650  ,   Gifu University   , Japan    
+    601-650  ,   Tokushima University   , Japan    
+    601-650  ,   Tokyo University of Agriculture and Technology   , Japan    
+    601-650  ,   Holy Spirit University of Kaslik   , Lebanon    
+    601-650  ,   International Islamic University Malaysia   , Malaysia    
+    601-650  ,   Ateneo de Manila University   , Philippines    
+    601-650  ,   University of Ljubljana   , Slovenia    
+    601-650  ,   Chiang Mai University   , Thailand    
+    601-650  ,   Middle East Technical University   , Turkey    
+    601-650  ,   National Chung Hsing University - Taipei   , Taiwan    
+    601-650  ,   University of Bradford   , UK    
+    601-650  ,   University of Hull   , UK    
+    601-650  ,   University of Portsmouth   , UK    
+    601-650  ,   University of Ulster   , UK    
+    601-650  ,   Bangor University   , UK    
+    601-650  ,   University of Kentucky   , USA    
+    601-650  ,   Smith College   , USA    
+    601-650  ,   Michigan Technological University   , USA    
+    601-650  ,   University of New Mexico   , USA    
+    601-650  ,   Syracuse University   , USA    
+    601-650  ,   University of Cincinnati   , USA    
+    601-650  ,   University of Oregon   , USA    
+    601-650  ,   Drexel University   , USA    
+    601-650  ,   University of Vermont   , USA    
+    601-650  ,   Taras Shevchenko National University of Kyiv   , Ukraine    
+    601-650  ,   King Khalid University   , Saudi Arabia    
+    601-650  ,   Missouri University of Science and Technology   , USA    
+    601-650  ,   Lobachevsky University   , Russia    
+    601-650  ,   Kazakh National Pedagogical University   , Kazakhstan    
+    601-650  ,   University of C�te d'Azur   , France    
+    601-650  ,   Indian Institute of Technology - Hyderabad   , India    
+    651-700  ,   National University de La Plata   , Argentina    
+    651-700  ,   University Torcuato di Tella   , Argentina    
+    651-700  ,   Edith Cowan University   , Australia    
+    651-700  ,   University of Mons-Hainaut   , Belgium    
+    651-700  ,   Pontifical Catholic University of Rio de Janeiro   , Brazil    
+    651-700  ,   Federal University of Minas Gerais   , Brazil    
+    651-700  ,   Beijing University of Technology   , China    
+    651-700  ,   Central South University   , China    
+    651-700  ,   ICESI University   , Colombia    
+    651-700  ,   University of Antioqu�a   , Colombia    
+    651-700  ,   University of Marburg   , Germany    
+    651-700  ,   University of Hannover   , Germany    
+    651-700  ,   University of Hohenheim   , Germany    
+    651-700  ,   University Pontificia Comillas   , Spain    
+    651-700  ,   University of Athens   , Greece    
+    651-700  ,   University of Pecs   , Hungary    
+    651-700  ,   Jadavpur University   , India    
+    651-700  ,   University of Hyderabad   , India    
+    651-700  ,   Savitribai Phule Pune University   , India    
+    651-700  ,   University of Genoa   , Italy    
+    651-700  ,   University of Siena   , Italy    
+    651-700  ,   Jordan University of Science and Technology   , Jordan    
+    651-700  ,   Kagoshima University   , Japan    
+    651-700  ,   Osaka Prefecture University   , Japan    
+    651-700  ,   Tokyo Metropolitan University   , Japan    
+    651-700  ,   Sejong University   , South Korea    
+    651-700  ,   Vilnius Gediminas Technical University   , Lithuania    
+    651-700  ,   An�huac University   , Mexico    
+    651-700  ,   University of Technology - Mara   , Malaysia    
+    651-700  ,   Lahore University of Management Sciences   , Pakistan    
+    651-700  ,   Pavol Jozef Safarik University in Kosice   , Slovakia    
+    651-700  ,   Bogazici University   , Turkey    
+    651-700  ,   National Technical University (Kharkiv Polytechnic Institute)   , Ukraine    
+    651-700  ,   University of Northumbria at Newcastle   , UK    
+    651-700  ,   University of Plymouth   , UK    
+    651-700  ,   University of Westminster   , UK    
+    651-700  ,   University of Denver   , USA    
+    651-700  ,   American University   , USA    
+    651-700  ,   Howard University   , USA    
+    651-700  ,   University of Massachusetts at Boston   , USA    
+    651-700  ,   City University of New York   , USA    
+    651-700  ,   University of Oklahoma   , USA    
+    651-700  ,   College of William and Mary   , USA    
+    651-700  ,   Virginia Commonwealth University   , USA    
+    651-700  ,   Tallinn University of Technology   , Estonia    
+    651-700  ,   Soochow University   , China    
+    651-700  ,   O.P. Jindal Global University   , India    
+    651-700  ,   Pontifical Bolivarian University   , Colombia    
+    651-700  ,   Applied Science University Bahrain   , Bahrain    
+    701-750  ,   University of San Andres   , Argentina    
+    701-750  ,   Abu Dhabi University   , United Arab Emirates    
+    701-750  ,   Ajman University of Science and Technology   , United Arab Emirates    
+    701-750  ,   Zayed University   , United Arab Emirates    
+    701-750  ,   Charles Darwin University   , Australia    
+    701-750  ,   University of Southern Queensland   , Australia    
+    701-750  ,   Federal University of Rio Grande do Sul   , Brazil    
+    701-750  ,   Memorial University of Newfoundland   , Canada    
+    701-750  ,   University of Sherbrooke   , Canada    
+    701-750  ,   University Adolfo Ib��ez   , Chile    
+    701-750  ,   China Agricultural University   , China    
+    701-750  ,   Nanjing University of Science and Technology   , China    
+    701-750  ,   University of Electronic Science and Technology of China   , China    
+    701-750  ,   Mendel University of Agriculture and Forestry   , Czech Republic    
+    701-750  ,   Brno University of Technology   , Czech Republic    
+    701-750  ,   University of Rostock   , Germany    
+    701-750  ,   University of Santiago de Compostela   , Spain    
+    701-750  ,   University Claude Bernard - Lyon I   , France    
+    701-750  ,   National University of Ireland - Maynooth   , Ireland    
+    701-750  ,   University of Haifa   , Israel    
+    701-750  ,   University of Trieste   , Italy    
+    701-750  ,   Gunma University   , Japan    
+    701-750  ,   Chonnam National University   , South Korea    
+    701-750  ,   Lebanese University Beirut   , Lebanon    
+    701-750  ,   Riga Technical University   , Latvia    
+    701-750  ,   National Polytechnic Institute    , Mexico    
+    701-750  ,   M�xico Autonomous Institute of Technology   , Mexico    
+    701-750  ,   University of Tenaga Nasional   , Malaysia    
+    701-750  ,   University Peruana Cayetano Heredia   , Peru    
+    701-750  ,   St. Petersburg State Electrotechnical University   , Russia    
+    701-750  ,   Comenius University in Bratislava   , Slovakia    
+    701-750  ,   National Technical University of Ukraine   , Ukraine    
+    701-750  ,   Sumy State University   , Ukraine    
+    701-750  ,   Keele University   , UK    
+    701-750  ,   Middlesex University   , UK    
+    701-750  ,   University of Greenwich   , UK    
+    701-750  ,   University of Huddersfield   , UK    
+    701-750  ,   University of Central Florida   , USA    
+    701-750  ,   Kansas State University   , USA    
+    701-750  ,   Louisiana State University   , USA    
+    701-750  ,   University of Maryland Baltimore County   , USA    
+    701-750  ,   Worcester Polytechnic Institute   , USA    
+    701-750  ,   Stevens Institute of Technology   , USA    
+    701-750  ,   Temple University   , USA    
+    701-750  ,   Southern Methodist University   , USA    
+    701-750  ,   University of Houston   , USA    
+    701-750  ,   Kaohsiung Medical University   , Taiwan    
+    701-750  ,   Ibero-American University   , Mexico    
+    701-750  ,   Macau University of Science and Technology   , Macao    
+    701-750  ,   Notre Dame University - Louaize   , Lebanon    
+    701-750  ,   Sunway University   , Malaysia    
+    751-800  ,  Ca' Foscari University of Venice  , Italy    
+    751-800  ,   University of Salzburg   , Austria    
+    751-800  ,   Southern Cross University   , Australia    
+    751-800  ,   University of Windsor   , Canada    
+    751-800  ,   Chongqing University   , China    
+    751-800  ,   University of La Sabana   , Colombia    
+    751-800  ,   University of Rosario   , Colombia    
+    751-800  ,   Technical University of Liberec   , Czech Republic    
+    751-800  ,   University of Duisburg-Essen   , Germany    
+    751-800  ,   University of D�sseldorf   , Germany    
+    751-800  ,   University San Francisco de Quito   , Ecuador    
+    751-800  ,   University of the Basque Country   , Spain    
+    751-800  ,   University of Rovira i Virgili   , Spain    
+    751-800  ,   University of Patras   , Greece    
+    751-800  ,   Jamia Millia Islamia University   , India    
+    751-800  ,   Manipal University   , India    
+    751-800  ,   Polytechnic University of Bari   , Italy    
+    751-800  ,   University of Brescia   , Italy    
+    751-800  ,   University of Modena   , Italy    
+    751-800  ,   University of Perugia   , Italy    
+    751-800  ,   Tokyo University of Science   , Japan    
+    751-800  ,   Chungnam National University   , South Korea    
+    751-800  ,   Dankook University   , South Korea    
+    751-800  ,   Seoul University   , South Korea    
+    751-800  ,   Kazakhstan Institute of Management - Economics - and Strategic Research   , Kazakhstan    
+    751-800  ,   University of Guadalajara   , Mexico    
+    751-800  ,   Plekhanov Russian University of Economics   , Russia    
+    751-800  ,   Istanbul Technical University   , Turkey    
+    751-800  ,   Bournemouth University   , UK    
+    751-800  ,   Nottingham Trent University   , UK    
+    751-800  ,   University Central de Venezuela   , Venezuela    
+    751-800  ,   Northwest University   , China    
+    751-800  ,   Florida International University   , USA    
+    751-800  ,   Georgia State University   , USA    
+    751-800  ,   Indiana University-Purdue University of Indianapolis   , USA    
+    751-800  ,   New Jersey Institute of Technology   , USA    
+    751-800  ,   Rutgers - The State University of New Jersey   , USA    
+    751-800  ,   Clarkson University   , USA    
+    751-800  ,   State University of New York at Albany   , USA    
+    751-800  ,   Oklahoma State University   , USA    
+    751-800  ,   University of Tulsa   , USA    
+    751-800  ,   Beijing Jiaotong University   , China    
+    751-800  ,   University of Lille   , France    
+    751-800  ,   London South Bank University   , UK    
+    751-800  ,   Sepuluh Nopember Institute of Technology   , Indonesia    
+    751-800  ,   Kazakh-British Technical University   , Kazakhstan    
+    751-800  ,   University of Malaysia - Pahang   , Malaysia    
+    751-800  ,   Prince Mohammad Bin Fahd University   , Saudi Arabia    
+    801-1000  ,  De Montfort University  , UK    
+    801-1000  ,  Perm State National Research University  , Russia    
+    801-1000  ,  Queen Margaret University  , UK    
+    801-1000  ,  Szent Istvan University  , Hungary    
+    801-1000  ,  Russian Presidential Academy National Economy and Public Administration  , Russia    
+    801-1000  ,  Viet Nam National University ho Chi Minh City  , Viet Nam    
+    801-1000  ,   National University de C�rdoba   , Argentina    
+    801-1000  ,   National University de Rosario   , Argentina    
+    801-1000  ,   National University de San Luis   , Argentina    
+    801-1000  ,   National Technological University   , Argentina    
+    801-1000  ,   Australian Catholic University   , Australia    
+    801-1000  ,   Charles Sturt University   , Australia    
+    801-1000  ,   University of New England   , Australia    
+    801-1000  ,   Bangladesh University of Engineering and Technology (BUET)   , Bangladesh    
+    801-1000  ,   University of Dhaka   , Bangladesh    
+    801-1000  ,   University of Bahrain   , Bahrain    
+    801-1000  ,   Pontif�cia Universidade Cat�lica de S�o Paulo   , Brazil    
+    801-1000  ,   Federal University of Pernambuco   , Brazil    
+    801-1000  ,   Federal University of Santa Catarina   , Brazil    
+    801-1000  ,   Federal University of S�o Carlos   , Brazil    
+    801-1000  ,   Federal University of Paran�   , Brazil    
+    801-1000  ,   University of Bras�lia   , Brazil    
+    801-1000  ,   Toronto Metropolitan University   , Canada    
+    801-1000  ,   University Austral de Chile   , Chile    
+    801-1000  ,   Pontifical Catholic University of Valparaiso   , Chile    
+    801-1000  ,   University Diego Portales   , Chile    
+    801-1000  ,   Federico Santa Mar�a Technical University   , Chile    
+    801-1000  ,   University of the Andes - Chile   , Chile    
+    801-1000  ,   Beijing Foreign Studies University   , China    
+    801-1000  ,   Harbin Engineering University   , China    
+    801-1000  ,   Lanzhou University   , China    
+    801-1000  ,   Shanghai International Studies University   , China    
+    801-1000  ,   Wuhan University of Technology   , China    
+    801-1000  ,   EAFIT University   , Colombia    
+    801-1000  ,   University of Valle del Cauca   , Colombia    
+    801-1000  ,   Costa Rica Institute of Technology   , Costa Rica    
+    801-1000  ,   University of Pardubice   , Czech Republic    
+    801-1000  ,   University of Bielefeld   , Germany    
+    801-1000  ,   University of Potsdam   , Germany    
+    801-1000  ,   Pontifical Catholic University of Ecuador   , Ecuador    
+    801-1000  ,   Tallinn University   , Estonia    
+    801-1000  ,   Ain Shams University   , Egypt    
+    801-1000  ,   Alexandria University   , Egypt    
+    801-1000  ,   University of Alicante   , Spain    
+    801-1000  ,   University of La Coru�a   , Spain    
+    801-1000  ,   University of Murcia   , Spain    
+    801-1000  ,   University of Oviedo   , Spain    
+    801-1000  ,   University Paul Val�ry - Montpellier III   , France    
+    801-1000  ,   University of Rennes I   , France    
+    801-1000  ,   University of Nantes   , France    
+    801-1000  ,   University of Versailles Saint-Quentin-en-Yvelines   , France    
+    801-1000  ,   Toulouse 1 University Capitole   , France    
+    801-1000  ,   Athens University of Economics and Business   , Greece    
+    801-1000  ,   University of Crete   , Greece    
+    801-1000  ,   University of Rijeka   , Croatia    
+    801-1000  ,   University of Zagreb   , Croatia    
+    801-1000  ,   Budapest University of Technology and Economics   , Hungary    
+    801-1000  ,   University of Miskolc   , Hungary    
+    801-1000  ,   Bina Nusantara University   , Indonesia    
+    801-1000  ,   Padjadjaran University   , Indonesia    
+    801-1000  ,   Aligarh Muslim University   , India    
+    801-1000  ,   Amrita Vishwa Vidyapeetham (Deemed University)   , India    
+    801-1000  ,   Anna University   , India    
+    801-1000  ,   Banaras Hindu University   , India    
+    801-1000  ,   University of Calcutta   , India    
+    801-1000  ,   Shiraz University   , Iran    
+    801-1000  ,   Roma Tre University   , Italy    
+    801-1000  ,   University of Bari   , Italy    
+    801-1000  ,   University of Calabria   , Italy    
+    801-1000  ,   University of Catania   , Italy    
+    801-1000  ,   University of Ferrara   , Italy    
+    801-1000  ,   University of Palermo   , Italy    
+    801-1000  ,   University of Parma   , Italy    
+    801-1000  ,   University of Salerno   , Italy    
+    801-1000  ,   University of Udine   , Italy    
+    801-1000  ,   University of Verona   , Italy    
+    801-1000  ,   German Jordanian University   , Jordan    
+    801-1000  ,   Princess Sumaya University for Technology   , Jordan    
+    801-1000  ,   Kyoto Institute of Technology   , Japan    
+    801-1000  ,   Kyushu Institute of Technology   , Japan    
+    801-1000  ,   Nagoya Institute of Technology   , Japan    
+    801-1000  ,   Ritsumeikan University   , Japan    
+    801-1000  ,   Saitama University   , Japan    
+    801-1000  ,   Shinshu University   , Japan    
+    801-1000  ,   Sophia University   , Japan    
+    801-1000  ,   Tokai University   , Japan    
+    801-1000  ,   Yamaguchi University   , Japan    
+    801-1000  ,   Yokohama National University   , Japan    
+    801-1000  ,   Yeungnam University   , South Korea    
+    801-1000  ,   Gulf University for Science and Technology   , Kuwait    
+    801-1000  ,   Kuwait University   , Kuwait    
+    801-1000  ,   Karaganda State Technical University   , Kazakhstan    
+    801-1000  ,   Beirut Arab University   , Lebanon    
+    801-1000  ,   Kaunas University of Technology   , Lithuania    
+    801-1000  ,   Vytautas Magnus University   , Lithuania    
+    801-1000  ,   University of Latvia   , Latvia    
+    801-1000  ,   University of Malta   , Malta    
+    801-1000  ,   Metropolitan Autonomous University   , Mexico    
+    801-1000  ,   Autonomous University of Chapingo   , Mexico    
+    801-1000  ,   Autonomous University of Mexico State   , Mexico    
+    801-1000  ,   University of las Am�ricas - Puebla   , Mexico    
+    801-1000  ,   University of Malaysia Perlis   , Malaysia    
+    801-1000  ,   Multimedia University   , Malaysia    
+    801-1000  ,   Malaysian University of Sabah   , Malaysia    
+    801-1000  ,   University of Malaysia Sarawak   , Malaysia    
+    801-1000  ,   University of Tunku Abdul Rahman   , Malaysia    
+    801-1000  ,   Technological University of Panama   , Panama    
+    801-1000  ,   National University of San Marcos   , Peru    
+    801-1000  ,   De La Salle University   , Philippines    
+    801-1000  ,   University of Santo Tomas   , Philippines    
+    801-1000  ,   University of Engineering and Technology Lahore   , Pakistan    
+    801-1000  ,   University of the Punjab   , Pakistan    
+    801-1000  ,   Adam Mickiewicz University in Poznan   , Poland    
+    801-1000  ,   Nicolaus Copernicus University   , Poland    
+    801-1000  ,   Lodz University of Technology   , Poland    
+    801-1000  ,   University of Gdansk   , Poland    
+    801-1000  ,   University of Lodz   , Poland    
+    801-1000  ,   AGH University of Science and Technology   , Poland    
+    801-1000  ,   University of Wroclaw   , Poland    
+    801-1000  ,   Catholic University of Portugal   , Portugal    
+    801-1000  ,   Babes-Bolyai University   , Romania    
+    801-1000  ,   University of Bucharest   , Romania    
+    801-1000  ,   Novosibirsk State Technical University   , Russia    
+    801-1000  ,   Islamic University of Madinah   , Saudi Arabia    
+    801-1000  ,   King Faisal University   , Saudi Arabia    
+    801-1000  ,   University of Maribor   , Slovenia    
+    801-1000  ,   Slovak University of Technology   , Slovakia    
+    801-1000  ,   Technical University in Kosice   , Slovakia    
+    801-1000  ,   Kasetsart University   , Thailand    
+    801-1000  ,   Khon Kaen University   , Thailand    
+    801-1000  ,   King Mongkut's University of Technology Thonburi   , Thailand    
+    801-1000  ,   Prince of Songkla University   , Thailand    
+    801-1000  ,   Ankara University   , Turkey    
+    801-1000  ,   Hacettepe University   , Turkey    
+    801-1000  ,   Istanbul University   , Turkey    
+    801-1000  ,   National Chung Cheng University   , Taiwan    
+    801-1000  ,   Glasgow Caledonian University   , UK    
+    801-1000  ,   Liverpool John Moores University   , UK    
+    801-1000  ,   London Metropolitan University   , UK    
+    801-1000  ,   Edinburgh Napier University   , UK    
+    801-1000  ,   Sheffield Hallam University   , UK    
+    801-1000  ,   The Manchester Metropolitan University   , UK    
+    801-1000  ,   The Robert Gordon University   , UK    
+    801-1000  ,   University of Brighton   , UK    
+    801-1000  ,   University of Central Lancashire   , UK    
+    801-1000  ,   University of East London   , UK    
+    801-1000  ,   University of Hertfordshire   , UK    
+    801-1000  ,   University of Salford   , UK    
+    801-1000  ,   University of the West of England - Bristol   , UK    
+    801-1000  ,   Catholic University of Uruguay   , Uruguay    
+    801-1000  ,   Catholic University Andres Bello   , Venezuela    
+    801-1000  ,   University Sim�n Bolivar   , Venezuela    
+    801-1000  ,   University of the Andes - Venezuela   , Venezuela    
+    801-1000  ,   Rhodes University   , South Africa    
+    801-1000  ,   University of KwaZulu-Natal   , South Africa    
+    801-1000  ,   San Diego State University   , USA    
+    801-1000  ,   University of San Diego   , USA    
+    801-1000  ,   University of the Pacific   , USA    
+    801-1000  ,   Loyola University of Chicago   , USA    
+    801-1000  ,   University of Mississippi   , USA    
+    801-1000  ,   University of New Hampshire   , USA    
+    801-1000  ,   Fordham University   , USA    
+    801-1000  ,   Binghamton University   , USA    
+    801-1000  ,   Kent State University   , USA    
+    801-1000  ,   Ohio University   , USA    
+    801-1000  ,   Clemson University   , USA    
+    801-1000  ,   Baylor University   , USA    
+    801-1000  ,   Texas Technical University   , USA    
+    801-1000  ,   Utah State University   , USA    
+    801-1000  ,   George Mason University   , USA    
+    801-1000  ,   University of Wyoming   , USA    
+    801-1000  ,   University of Alabama   , USA    
+    801-1000  ,   Auburn University   , USA    
+    801-1000  ,   University of Lorraine   , France    
+    801-1000  ,   Technical University of Dortmund   , Germany    
+    801-1000  ,   Marche Polytechnic University   , Italy    
+    801-1000  ,   Corvinus University of Budapest   , Hungary    
+    801-1000  ,   Gda�sk University of Technology   , Poland    
+    801-1000  ,   Czech University of Life Sciences Prague   , Czech Republic    
+    801-1000  ,   University of Lincoln (England)   , UK    
+    801-1000  ,   Lviv Polytechnic National University   , Ukraine    
+    801-1000  ,   University of Baghdad   , Iraq    
+    801-1000  ,   University of Kufa   , Iraq    
+    801-1000  ,   University of the Republic   , Uruguay    
+    801-1000  ,   Belarusian National Technical University   , Belarus    
+    801-1000  ,   Kazakh Ablai Khan University of International Relations and World Languages   , Kazakhstan    
+    801-1000  ,   National University of Costa Rica   , Costa Rica    
+    801-1000  ,   Silesian University of Technology   , Poland    
+    801-1000  ,   Riga Stradins University   , Latvia    
+    801-1000  ,   Cracow University of Technology   , Poland    
+    801-1000  ,   Poznan University of Technology   , Poland    
+    801-1000  ,   Wroclaw University of Science and Technology   , Poland    
+    801-1000  ,   South Ural State University   , Russia    
+    801-1000  ,   Viet Nam National University - Hanoi   , Viet Nam    
+    801-1000  ,   COMSATS University Islamabad   , Pakistan    
+    801-1000  ,   Birmingham City University   , UK    
+    801-1000  ,   Technological University Dublin   , Ireland    
+    801-1000  ,   National Polytechnic School   , Ecuador      

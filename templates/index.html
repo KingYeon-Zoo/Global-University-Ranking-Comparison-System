@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>全球大学排名对比系统</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- 使用Font Awesome图标 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <!-- 添加Chart.js库 -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="hero">
+        <div class="hero-background">
+            <div class="tech-circles"></div>
+            <div class="tech-grid"></div>
+        </div>
+        <div class="hero-content">
+            <div class="tech-line"></div>
+            <h1>
+                <span class="tech-text">全球大学排名对比系统</span>
+            </h1>
+            <p class="subtitle">比较不同机构的大学排名，助您做出明智的选择</p>
+            <div class="tech-line"></div>
+        </div>
+    </div>
+
+    <div class="container">
+        <div class="search-section">
+            <div class="search-group">
+                <div class="select-wrapper">
+                    <label for="yearSelect">选择年份</label>
+                    <select id="yearSelect">
+                        <!-- 年份选项将通过JavaScript动态添加 -->
+                    </select>
+                </div>
+                <div class="search-wrapper">
+                    <label for="searchInput">搜索大学</label>
+                    <div class="search-input-group">
+                        <input type="text" id="searchInput" placeholder="输入大学名称...">
+                        <button id="searchBtn" class="search-button">
+                            <i class="fas fa-search"></i>
+                            搜索
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="searchResults" class="search-results">
+            <div class="results-header">
+                <h3>搜索结果</h3>
+                <button class="close-btn" onclick="hideResults('searchResults')">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="results-content">
+                <!-- 搜索结果将在这里显示 -->
+            </div>
+        </div>
+
+        <div class="rankings-grid">
+            <div class="ranking-column">
+                <h2>ARWU <span class="year">2024</span></h2>
+                <div class="ranking-content" id="arwuRanking">
+                    <!-- ARWU排名数据将通过JavaScript动态添加 -->
+                </div>
+            </div>
+
+            <div class="ranking-column">
+                <h2>QS <span class="year">2024</span></h2>
+                <div class="ranking-content" id="qsRanking">
+                    <!-- QS排名数据将通过JavaScript动态添加 -->
+                </div>
+            </div>
+
+            <div class="ranking-column">
+                <h2>THE <span class="year">2024</span></h2>
+                <div class="ranking-content" id="theRanking">
+                    <!-- THE排名数据将通过JavaScript动态添加 -->
+                </div>
+            </div>
+        </div>
+
+        <!-- 添加大学对比系统 -->
+        <div class="comparison-section">
+            <h2 class="section-title">大学对比系统</h2>
+            <div class="comparison-controls">
+                <div class="university-count-selector">
+                    <label for="universityCount">选择对比大学数量（最多5所）</label>
+                    <select id="universityCount">
+                        <option value="2">2所大学</option>
+                        <option value="3">3所大学</option>
+                        <option value="4">4所大学</option>
+                        <option value="5">5所大学</option>
+                    </select>
+                </div>
+                <div id="universityInputs" class="university-inputs">
+                    <!-- 大学输入框将通过JavaScript动态添加 -->
+                </div>
+                <button id="compareBtn" class="compare-button">
+                    <i class="fas fa-chart-bar"></i>
+                    开始对比
+                </button>
+            </div>
+            <div id="comparisonResults" class="comparison-results">
+                <div class="results-header" style="display: none;">
+                    <h3>对比结果</h3>
+                    <button class="close-btn" onclick="hideResults('comparisonResults')">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="results-content">
+                    <!-- 对比结果将在这里显示 -->
+                </div>
+            </div>
+        </div>
+
+        <!-- 添加趋势分析系统 -->
+        <div class="trend-section">
+            <h2 class="section-title">排名趋势分析</h2>
+            <div class="trend-description">
+                <p class="tip">提示：请先在上方搜索框中搜索大学，然后复制完整的大学名称到这里进行趋势分析</p>
+            </div>
+            <div class="trend-controls">
+                <div class="trend-input-group">
+                    <input type="text" id="trendUniversityInput" placeholder="粘贴完整的大学名称...">
+                    <button id="trendBtn" class="trend-button">
+                        <i class="fas fa-chart-line"></i>
+                        分析趋势
+                    </button>
+                </div>
+            </div>
+            <div id="trendResults" class="trend-results">
+                <div class="results-header" style="display: none;">
+                    <h3>趋势分析结果</h3>
+                    <button class="close-btn" onclick="hideResults('trendResults')">
+                        <i class="fas fa-times"></i>
+                    </button>
+                </div>
+                <div class="results-content">
+                    <div id="trendChart" class="trend-chart">
+                        <canvas></canvas>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html> 
